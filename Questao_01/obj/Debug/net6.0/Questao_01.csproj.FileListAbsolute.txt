@@ -1,0 +1,15 @@
+C:\WorkStation\Prova Tecnica\Questao_01\bin\Debug\net6.0\Questao_01.exe
+C:\WorkStation\Prova Tecnica\Questao_01\bin\Debug\net6.0\Questao_01.deps.json
+C:\WorkStation\Prova Tecnica\Questao_01\bin\Debug\net6.0\Questao_01.runtimeconfig.json
+C:\WorkStation\Prova Tecnica\Questao_01\bin\Debug\net6.0\Questao_01.dll
+C:\WorkStation\Prova Tecnica\Questao_01\bin\Debug\net6.0\Questao_01.pdb
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.csproj.AssemblyReference.cache
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.AssemblyInfoInputs.cache
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.AssemblyInfo.cs
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.csproj.CoreCompileInputs.cache
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.dll
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\refint\Questao_01.dll
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.pdb
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\Questao_01.genruntimeconfig.cache
+C:\WorkStation\Prova Tecnica\Questao_01\obj\Debug\net6.0\ref\Questao_01.dll
