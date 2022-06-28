@@ -40,9 +40,9 @@ namespace Questao_02
 
                  Cheques cheques = new Cheques();
 
-                cheques.calcularValorRecebivel(valor, prazo);
+                double valorFinal = cheques.calcularValorRecebivel(valor, prazo);
 
-                System.Console.WriteLine(cheques);
+                System.Console.WriteLine(valorFinal.ToString("C"));
             }
 
             void Promissoria()
@@ -52,6 +52,11 @@ namespace Questao_02
                 System.Console.Write("Digite o prazo do vencimento: ");
                 int prazo = int.Parse(Console.ReadLine());
 
+                Promissorias promissorias = new Promissorias();
+
+                double valorFinal = promissorias.calcularValorRecebivel(valor, prazo);
+
+                System.Console.WriteLine(valorFinal.ToString("C"));
                 
                
 
