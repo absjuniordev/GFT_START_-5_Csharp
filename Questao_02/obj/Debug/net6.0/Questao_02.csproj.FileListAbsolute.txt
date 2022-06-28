@@ -1,0 +1,15 @@
+C:\WorkStation\Prova Tecnica\Questao_02\bin\Debug\net6.0\Questao_02.exe
+C:\WorkStation\Prova Tecnica\Questao_02\bin\Debug\net6.0\Questao_02.deps.json
+C:\WorkStation\Prova Tecnica\Questao_02\bin\Debug\net6.0\Questao_02.runtimeconfig.json
+C:\WorkStation\Prova Tecnica\Questao_02\bin\Debug\net6.0\Questao_02.dll
+C:\WorkStation\Prova Tecnica\Questao_02\bin\Debug\net6.0\Questao_02.pdb
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.csproj.AssemblyReference.cache
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.AssemblyInfoInputs.cache
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.AssemblyInfo.cs
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.csproj.CoreCompileInputs.cache
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.dll
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\refint\Questao_02.dll
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.pdb
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\Questao_02.genruntimeconfig.cache
+C:\WorkStation\Prova Tecnica\Questao_02\obj\Debug\net6.0\ref\Questao_02.dll
